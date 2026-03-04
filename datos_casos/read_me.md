@@ -1,0 +1,1 @@
+Los datos ubicados en esta carpeta corresponden a los ejemplos expuestos en el artículo titulado [Nonlinearity Assessment of Chemical Processes](https://github.com/DrFaus/benchmark_nonlinear_systems/blob/main/MedicionNoLinealidad/Nonlinearity%20assessment%20of%20chemical%20processes.pdf)
